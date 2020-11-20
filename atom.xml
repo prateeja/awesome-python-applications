@@ -5,13 +5,167 @@
   <subtitle type="text">The newest additions to the Awesome Python Applications list.</subtitle>
   <link rel="alternate" type="text/html" href="https://github.com/mahmoud/awesome-python-applications" />
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/mahmoud/awesome-python-applications/master/atom.xml" />
-  <updated>2020-05-05T02:47:03Z</updated>
+  <updated>2020-10-11T07:06:16Z</updated>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
 
   <rights type="html">CC-BY-SA unless otherwise noted</rights>
   <generator uri="https://github.com/mahmoud/apatite">Apatite 19.0</generator>
 
+  
+  <entry>
+    <id>https://github.com/spack/spack</id>
+    <title>Spack</title>
+    <link rel="alternate" type="text/html" href="https://github.com/spack/spack" />
+    <published>2020-10-11T00:06:00Z</published>
+    <updated>2020-10-11T00:06:00Z</updated>
+    <category term="audio"/><category term="audio"/><category term="audio"/><category term="audio"/>
+
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+      <p><strong><a href="https://github.com/spack/spack">Spack</a></strong>: Language-independent package manager for supercomputers, Mac, and Linux, designed for scientific computing.</p>
+      <p>Links:</p>
+      <ul>
+        <li><a href='https://github.com/spack/spack'>Repo</a></li>
+        <li><a href='https://spack.io/'>Home</a></li>
+        <li><a href='https://spack.readthedocs.io/en/latest'>Docs</a></li>
+        
+      </ul>
+      </div>
+    </content>
+    <author>
+      <name>Awesome Python Applications contributors</name>
+      <uri>https://github.com/mahmoud/awesome-python-applications</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>https://github.com/galaxyproject/galaxy</id>
+    <title>Galaxy</title>
+    <link rel="alternate" type="text/html" href="https://github.com/galaxyproject/galaxy" />
+    <published>2020-10-10T23:41:00Z</published>
+    <updated>2020-10-10T23:41:00Z</updated>
+    <category term="audio"/><category term="audio"/>
+
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+      <p><strong><a href="https://github.com/galaxyproject/galaxy">Galaxy</a></strong>: Web-based platform for reproducible and transparent computational research, with a focus on bioinformatics.</p>
+      <p>Links:</p>
+      <ul>
+        <li><a href='https://github.com/galaxyproject/galaxy'>Repo</a></li>
+        <li><a href='https://galaxyproject.org/'>Home</a></li>
+        <li><a href='https://galaxyproject.org/docs'>Docs</a></li>
+        
+      </ul>
+      </div>
+    </content>
+    <author>
+      <name>Awesome Python Applications contributors</name>
+      <uri>https://github.com/mahmoud/awesome-python-applications</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>https://github.com/buffer/thug</id>
+    <title>Thug</title>
+    <link rel="alternate" type="text/html" href="https://github.com/buffer/thug" />
+    <published>2020-08-24T12:02:00Z</published>
+    <updated>2020-08-24T12:02:00Z</updated>
+    <category term="audio"/><category term="audio"/><category term="audio"/>
+
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+      <p><strong><a href="https://github.com/buffer/thug">Thug</a></strong>: Low-interaction honeyclient designed to mimic the behavior of a web browser in order to detect and emulate malicious contents.</p>
+      <p>Links:</p>
+      <ul>
+        <li><a href='https://github.com/buffer/thug'>Repo</a></li>
+        <li><a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XTDF8AHJ28CXY'>Fund</a></li>
+        <li><a href='https://pypi.org/project/thug'>PyPI</a></li>
+        <li><a href='https://thug-honeyclient.readthedocs.io/en/latest'>Docs</a></li>
+        
+      </ul>
+      </div>
+    </content>
+    <author>
+      <name>Awesome Python Applications contributors</name>
+      <uri>https://github.com/mahmoud/awesome-python-applications</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>https://github.com/citronneur/rdpy</id>
+    <title>RDPY</title>
+    <link rel="alternate" type="text/html" href="https://github.com/citronneur/rdpy" />
+    <published>2020-08-24T11:37:00Z</published>
+    <updated>2020-08-24T11:37:00Z</updated>
+    <category term="audio"/><category term="audio"/><category term="audio"/><category term="audio"/><category term="audio"/>
+
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+      <p><strong><a href="https://github.com/citronneur/rdpy">RDPY</a></strong>: An implementation of the Microsoft Remote Desktop Protocol built on Twisted, including applications for client use, MITM proxy, and Honeypot server.</p>
+      <p>Links:</p>
+      <ul>
+        <li><a href='https://github.com/citronneur/rdpy'>Repo</a></li>
+        
+      </ul>
+      </div>
+    </content>
+    <author>
+      <name>Awesome Python Applications contributors</name>
+      <uri>https://github.com/mahmoud/awesome-python-applications</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>https://github.com/spacesiren/spacesiren</id>
+    <title>SpaceSiren</title>
+    <link rel="alternate" type="text/html" href="https://github.com/spacesiren/spacesiren" />
+    <published>2020-08-24T11:24:00Z</published>
+    <updated>2020-08-24T11:24:00Z</updated>
+    <category term="audio"/><category term="audio"/><category term="audio"/>
+
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+      <p><strong><a href="https://github.com/spacesiren/spacesiren">SpaceSiren</a></strong>: Honeypot management and alert system for AWS tokens, with a fully serverless architecture.</p>
+      <p>Links:</p>
+      <ul>
+        <li><a href='https://github.com/spacesiren/spacesiren'>Repo</a></li>
+        <li><a href='https://github.com/spacesiren/spacesiren/blob/master/docs/getting-started.md'>Docs</a></li>
+        
+      </ul>
+      </div>
+    </content>
+    <author>
+      <name>Awesome Python Applications contributors</name>
+      <uri>https://github.com/mahmoud/awesome-python-applications</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>https://github.com/jarun/buku</id>
+    <title>buku</title>
+    <link rel="alternate" type="text/html" href="https://github.com/jarun/buku" />
+    <published>2020-08-04T00:15:00Z</published>
+    <updated>2020-08-04T00:15:00Z</updated>
+    <category term="audio"/><category term="audio"/><category term="audio"/><category term="audio"/><category term="audio"/><category term="audio"/>
+
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+      <p><strong><a href="https://github.com/jarun/buku">buku</a></strong>: Browser-independent bookmark manager with CLI and web server frontends, with integrations for browsers, cloud-based bookmark managers, and emacs.</p>
+      <p>Links:</p>
+      <ul>
+        <li><a href='https://github.com/jarun/buku'>Repo</a></li>
+        <li><a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RMLTQ76JSXJ4Q'>Fund</a></li>
+        <li><a href='https://github.com/jarun/buku/wiki'>Docs</a></li>
+        
+      </ul>
+      </div>
+    </content>
+    <author>
+      <name>Awesome Python Applications contributors</name>
+      <uri>https://github.com/mahmoud/awesome-python-applications</uri>
+    </author>
+  </entry>
   
   <entry>
     <id>https://github.com/dbcli/mycli</id>

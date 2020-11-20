@@ -15,7 +15,7 @@ are a gold mine of practical patterns that we know work together. A
 production application is worth a thousand blog posts and Stack
 Overflow answers.
 
-This document is an always-growing list of **393**
+This document is an always-growing list of **399**
 open-source Python applications arranged by topic, with links to
 repositories, docs, and more, generated from [structured
 data](https://github.com/mahmoud/awesome-python-applications/blob/master/projects.yaml)
@@ -33,28 +33,28 @@ thereof), see Architectures. -->
 
 **Contents**
 
-1. <a href="#tag-internet">Internet</a> *(33)*
+1. <a href="#tag-internet">Internet</a> *(34)*
 1. <a href="#tag-audio">Audio</a> *(17)*
 1. <a href="#tag-video">Video</a> *(7)*
 1. <a href="#tag-graphics">Graphics</a> *(20)*
 1. <a href="#tag-games">Games</a> *(10)*
 1. <a href="#tag-productivity">Productivity</a> *(24)*
-1. <a href="#tag-organization">Organization</a> *(39)*
+1. <a href="#tag-organization">Organization</a> *(40)*
 1. <a href="#tag-communication">Communication</a> *(33)*
 1. <a href="#tag-education">Education</a> *(8)*
-1. <a href="#tag-science">Science</a> *(22)*
+1. <a href="#tag-science">Science</a> *(24)*
 1. <a href="#tag-cms">CMS</a> *(11)*
 1. <a href="#tag-erp">ERP</a> *(5)*
 1. <a href="#tag-static_site">Static Site</a> *(9)*
-1. <a href="#tag-dev">Dev</a> *(171)*
+1. <a href="#tag-dev">Dev</a> *(175)*
     1. <a href="#tag-dev.scm">SCM</a> *(17)*
     1. <a href="#tag-dev.code_review">Code Review</a> *(4)*
     1. <a href="#tag-dev.storage">Storage</a> *(17)*
-    1. <a href="#tag-dev.ops">Ops</a> *(25)*
-    1. <a href="#tag-dev.security">Security</a> *(26)*
+    1. <a href="#tag-dev.ops">Ops</a> *(27)*
+    1. <a href="#tag-dev.security">Security</a> *(29)*
     1. <a href="#tag-dev.docs">Docs</a> *(7)*
     1. <a href="#tag-dev.editor">Editor</a> *(13)*
-    1. <a href="#tag-dev.pkg_mgr">Package Managers</a> *(10)*
+    1. <a href="#tag-dev.pkg_mgr">Package Managers</a> *(11)*
     1. <a href="#tag-dev.pkg_repo">Package Repositories</a> *(5)*
     1. <a href="#tag-dev.build">Build</a> *(13)*
     1. <a href="#tag-dev.shell">Shell</a> *(3)*
@@ -67,6 +67,7 @@ thereof), see Architectures. -->
 
   1. **ArchiveBox** - ([Repo](https://github.com/pirate/ArchiveBox), [Home](https://archivebox.io/), [Docs](https://github.com/pirate/ArchiveBox/wiki)) Self-hosted web archive, for creating local, browsable backups of content from the web. Imports HTML, JS, PDFs, video, subtitles, git repositories, and more, from Pocket, Pinboard, browser history, etc. `(organization, linux, windows, docker)`
   1. **archivematica** - ([Repo](https://github.com/artefactual/archivematica), [Home](https://www.archivematica.org/en), [Docs](https://www.archivematica.org/en/docs)) Digital preservation system designed to maintain standards-based, long-term access to collections of digital objects, targeted at archivists and librarians. `(organization, server)`
+  1. **buku** - ([Repo](https://github.com/jarun/buku), [Fund](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RMLTQ76JSXJ4Q), [Docs](https://github.com/jarun/buku/wiki)) Browser-independent bookmark manager with CLI and web server frontends, with integrations for browsers, cloud-based bookmark managers, and emacs. `(organization, linux, windows, mac, server)`
   1. **Canto** - ([Repo](https://github.com/themoken/canto-next), [WP](https://en.wikipedia.org/wiki/Canto_%28news_aggregator%29)) RSS daemon and [curses-based client](https://github.com/themoken/canto-curses). `(linux, tui)`
   1. **CTFd** - ([Repo](https://github.com/CTFd/CTFd), [Home](https://ctfd.io/), [Docs](https://github.com/CTFd/CTFd/wiki)) CTFd is a Capture The Flag framework focusing on ease of use and customizability. It comes with everything you need to run a CTF and it's easy to customize with plugins and themes. `(server)`
   1. **Deluge** - ([Repo](https://github.com/deluge-torrent/deluge), [Home](https://deluge-torrent.org/), [WP](https://en.wikipedia.org/wiki/Deluge_%28software%29), [Fund](https://www.patreon.com/deluge_cas)) Popular, lightweight, cross-platform BitTorrent client. `(linux, windows, mac, server, gtk)`
@@ -199,6 +200,7 @@ thereof), see Architectures. -->
   1. **archivematica** - ([Repo](https://github.com/artefactual/archivematica), [Home](https://www.archivematica.org/en), [Docs](https://www.archivematica.org/en/docs)) Digital preservation system designed to maintain standards-based, long-term access to collections of digital objects, targeted at archivists and librarians. `(internet, server)`
   1. **Baby Buddy** - ([Repo](https://github.com/cdubz/babybuddy), [Demo](http://demo.baby-buddy.net/)) Mobile-friendly web application which helps caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby's needs without (as much) guesswork. `(server)`
   1. **beancount** - ([Repo](https://bitbucket.org/blais/beancount), [Home](http://furius.ca/beancount), [gh](https://github.com/beancount/beancount), [PyPI](https://pypi.org/project/beancount), [Docs](https://docs.google.com/document/d/1RaondTJCS_IUPBHFNdT8oqFKJjVJDsfsn6JEjBG04eA/edit)) A double-entry bookkeeping language to define financial transaction records in plain text, then generate a variety of reports, via CLI and web interface. (See also, [Plain Text Accounting](https://plaintextaccounting.org/)). `(linux, windows, mac)`
+  1. **buku** - ([Repo](https://github.com/jarun/buku), [Fund](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RMLTQ76JSXJ4Q), [Docs](https://github.com/jarun/buku/wiki)) Browser-independent bookmark manager with CLI and web server frontends, with integrations for browsers, cloud-based bookmark managers, and emacs. `(internet, linux, windows, mac, server)`
   1. **Byro** - ([Repo](https://github.com/byro/byro), [Docs](https://byro.readthedocs.io/)) Web-based membership administration tool for small and medium sized clubs/NGOs/associations of all kinds, with a focus on the DACH region. `(server)`
   1. **Calibre** - ([Repo](https://github.com/kovidgoyal/calibre), [Home](https://calibre-ebook.com/), [WP](https://en.wikipedia.org/wiki/Calibre_%28software%29), [Fund](https://www.patreon.com/kovidgoyal)) E-book manager designed for viewing, converting, editing, and cataloging e-books in all major formats. `(linux, windows, mac, qt5)`
   1. **Calibre-Web** - ([Repo](https://github.com/janeczku/calibre-web)) Web application providing a clean interface for browsing, reading, and downloading ebooks using an existing [Calibre](https://calibre-ebook.com/) database. `(linux)`
@@ -291,6 +293,7 @@ thereof), see Architectures. -->
   1. **CKAN** - ([Repo](https://github.com/ckan/ckan), [Home](https://ckan.org/)) Data management system (DMS) which makes it easy to publish, share, and use data. Data hubs powered by CKAN include [datahub.io](https://datahub.io), [catalog.data.gov](https://catalog.data.gov), and [europeandataportal.eu](https://europeandataportal.eu/data/en/dataset), among many other sites. `(server, flask)`
   1. **CoCalc** - ([Repo](https://github.com/sagemathinc/cocalc), [Home](https://cocalc.com/), [WP](https://en.wikipedia.org/wiki/CoCalc)) Collaborative calculation in the cloud, with support for the scientific Python stack, SageMath, R, LaTeX, Markdown, and more. Also features chat, course management, and other supporting functionality. `(server)`
   1. **Dissem.in** - ([Repo](https://github.com/dissemin/dissemin), [Home](https://dissem.in/), [Docs](https://dev.dissem.in/)) Web platform to help researchers upload their papers to open-access repositories. `(server, django)`
+  1. **Galaxy** - ([Repo](https://github.com/galaxyproject/galaxy), [Home](https://galaxyproject.org/), [Docs](https://galaxyproject.org/docs)) Web-based platform for reproducible and transparent computational research, with a focus on bioinformatics. `(server)`
   1. **InVesalius** - ([Repo](https://github.com/invesalius/invesalius3), [Home](https://invesalius.github.io/), [WP](https://en.wikipedia.org/wiki/InVesalius)) Generates virtual reconstructions of structures in the human body for medical purposes, including CT and MRI scans. `(linux, windows, mac, gtk)`
   1. **Manim** - ([Repo](https://github.com/3b1b/manim), [Docs](https://manim.readthedocs.io/)) Animation engine for explanatory math videos, primarily designed for [works by 3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). `(linux)`
   1. **Mayavi** - ([Repo](https://github.com/enthought/mayavi), [Home](http://docs.enthought.com/mayavi/mayavi)) General purpose, cross-platform tool for 2-D and 3-D scientific data visualization. `(linux, windows, mac, qt4)`
@@ -303,6 +306,7 @@ thereof), see Architectures. -->
   1. **Sage Math** - ([Repo](https://git.sagemath.org/sage.git), [Home](http://www.sagemath.org/), [WP](https://en.wikipedia.org/wiki/SageMath)) Cross-platform computer algebra system with features covering many aspects of mathematics, including algebra, combinatorics, graph theory, numerical analysis, number theory, calculus, and statistics. `(linux, windows, mac)`
   1. **Scholia** - ([Repo](https://github.com/fnielsen/scholia), [Home](https://tools.wmflabs.org/scholia), [Docs](https://www.wikidata.org/wiki/Wikidata%3AScholia)) Python package and web application for interacting with scholarly information on [Wikidata](https://www.wikidata.org/). `(organization, server)`
   1. **SOFA Statistics** - ([Repo](https://code.launchpad.net/sofastatistics), [Home](http://www.sofastatistics.com/)) User-friendly statistics and analysis with a learn-as-you-go approach. `(linux, windows, mac, wx)`
+  1. **Spack** - ([Repo](https://github.com/spack/spack), [Home](https://spack.io/), [Docs](https://spack.readthedocs.io/en/latest)) Language-independent package manager for supercomputers, Mac, and Linux, designed for scientific computing. `(pkg_mgr, linux, mac)`
   1. **Taguette** - ([Repo](https://gitlab.com/remram44/taguette), [Home](https://www.taguette.org/), [gh](https://github.com/remram44/taguette), [PyPI](https://pypi.org/project/taguette), [Docs](https://www.taguette.org/getting-started.html)) Web-based qualitative research tool supporting importing, tagging, highlighting, and exporting many document formats. `(server)`
   1. **Veusz** - ([Repo](https://github.com/veusz/veusz), [Home](https://veusz.github.io/)) 2D and 3D scientific plotting, designed to produce publication-ready PDF or SVG graphs. `(linux, windows, mac, qt)`
 
@@ -414,8 +418,10 @@ Projects related to software development and adjacent technical areas.
   1. **OpenStack** - ([Repo](https://github.com/openstack/openstack), [Home](https://www.openstack.org/), [Docs](https://docs.openstack.org/)) Cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, manageable through a web-based dashboard. `(server, corp)`
   1. **Pulp** - ([Repo](https://github.com/pulp/pulp), [Home](https://pulpproject.org/), [Docs](https://docs.pulpproject.org/)) Platform for managing repositories of software packages and making it available to a large numbers of consumers. Developed and used by Red Hat. `(server)`
   1. **Ralph** - ([Repo](https://github.com/allegro/ralph), [Home](https://ralph.allegro.tech/), [Docs](https://ralph-ng.readthedocs.io/en/stable)) Simple and powerful Asset Management, DCIM, and CMDB system for the data center and back office. `(server, django)`
+  1. **RDPY** - ([Repo](https://github.com/citronneur/rdpy)) An implementation of the Microsoft Remote Desktop Protocol built on Twisted, including applications for client use, MITM proxy, and Honeypot server. `(security, linux, windows, server)`
   1. **Salt Stack** - ([Repo](https://github.com/saltstack/salt), [Home](https://repo.saltstack.com/)) Automation for the management and configuration of any infrastructure or application at scale. `(server, corp)`
   1. **Shinken** - ([Repo](https://github.com/naparuba/shinken), [Home](http://www.shinken-monitoring.org/)) Shinken is a modern, Nagios-compatible monitoring framework, designed to scale for large environments. `(server)`
+  1. **SpaceSiren** - ([Repo](https://github.com/spacesiren/spacesiren), [Docs](https://github.com/spacesiren/spacesiren/blob/master/docs/getting-started.md)) Honeypot management and alert system for AWS tokens, with a fully serverless architecture. `(security, server)`
   1. **Spinnaker** - ([Repo](https://github.com/spinnaker/spinnaker), [Home](https://www.spinnaker.io/), [WP](https://en.wikipedia.org/wiki/Spinnaker_%28software%29), [Docs](https://www.spinnaker.io/concepts)) Continuous delivery platform developed for Netflix's deployment and management of applications in cloud environments. `(server, corp)`
   1. **StackStorm** - ([Repo](https://github.com/StackStorm/st2), [Home](http://www.stackstorm.com/)) Rules- and event-driven operational automation for auto-remediation, security responses, troubleshooting, deployments, and more. `(server, corp)`
   1. **Supervisor** - ([Repo](https://github.com/Supervisor/supervisor), [Home](http://supervisord.org/)) Process manager and monitor. `(linux, mac, server)`
@@ -441,11 +447,14 @@ Projects related to software development and adjacent technical areas.
   1. **Psono** - ([Repo](https://gitlab.com/psono/psono-server), [Home](https://psono.com/), [Demo](https://www.psono.pw/), [Docs](https://doc.psono.com/)) Server-based password manager, built for teams. `(productivity, server)`
   1. **Pupy** - ([Repo](https://github.com/n1nj4sec/pupy), [Docs](https://github.com/n1nj4sec/pupy/wiki/Installation)) Remote administration tool and post-exploitation framework, supporting Windows, Linux, Mac OS X, and Android targets. `(linux, docker, server)`
   1. **PyEW** - ([Repo](https://github.com/joxeankoret/pyew), [Docs](https://github.com/joxeankoret/pyew/wiki)) Malware analysis tool, with support for hexadecimal viewing, disassembly, PE and ELF formats, plugins, and more. `(console)`
+  1. **RDPY** - ([Repo](https://github.com/citronneur/rdpy)) An implementation of the Microsoft Remote Desktop Protocol built on Twisted, including applications for client use, MITM proxy, and Honeypot server. `(ops, linux, windows, server)`
   1. **Recon-ng** - ([Repo](https://github.com/lanmaster53/recon-ng), [Home](https://github.com/lanmaster53/recon-ng), [Docs](https://github.com/lanmaster53/recon-ng/wiki)) Recon-ng is a full-featured reconnaissance framework providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly. `(linux)`
   1. **Searx** - ([Repo](https://github.com/asciimoo/searx), [Docs](https://asciimoo.github.io/searx)) Self-hosted metasearch engine, aggregating results from more than 70 services while avoiding tracking and profiling. `(internet, server, flask)`
+  1. **SpaceSiren** - ([Repo](https://github.com/spacesiren/spacesiren), [Docs](https://github.com/spacesiren/spacesiren/blob/master/docs/getting-started.md)) Honeypot management and alert system for AWS tokens, with a fully serverless architecture. `(ops, server)`
   1. **Spiderfoot** - ([Repo](https://github.com/smicallef/spiderfoot), [Home](https://www.spiderfoot.net/), [Docs](https://www.spiderfoot.net/documentation)) Reconnaissance tool that automatically queries over 100 public data sources to gather intelligence on IP addresses, domain names, e-mail addresses, names, and more. `(linux, windows, mac, docker, server)`
   1. **sqlmap** - ([Repo](https://github.com/sqlmapproject/sqlmap), [Home](http://sqlmap.org/), [Docs](https://github.com/sqlmapproject/sqlmap/wiki)) Automatic SQL injection and database takeover. `(storage, console)`
   1. **sshuttle** - ([Repo](https://github.com/sshuttle/sshuttle), [Docs](https://sshuttle.readthedocs.org/)) Transparent network proxy server that uses SSH to achieve VPN-like results, without requiring root access. `(linux, mac)`
+  1. **Thug** - ([Repo](https://github.com/buffer/thug), [Fund](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XTDF8AHJ28CXY), [PyPI](https://pypi.org/project/thug), [Docs](https://thug-honeyclient.readthedocs.io/en/latest)) Low-interaction honeyclient designed to mimic the behavior of a web browser in order to detect and emulate malicious contents. `(linux, mac)`
   1. **Universal Radio Hacker (URH)** - ([Repo](https://github.com/jopohl/urh)) Wireless protocol investigator, with a focus on analyzing proprietary IoT communication. `(linux, windows, mac)`
   1. **XSStrike** - ([Repo](https://github.com/s0md3v/XSStrike)) [Cross Site Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting) (XSS) detection suite equipped with multiple hand-written parsers, a payload generator, a fuzzing engine, and a performance-focused crawler. `(console)`
 
@@ -486,6 +495,7 @@ Projects related to software development and adjacent technical areas.
   1. **Poetry** - ([Repo](https://github.com/sdispater/poetry), [Home](https://poetry.eustace.io/), [Docs](https://poetry.eustace.io/docs)) An independent approach to Python dependency management and packaging. `(linux, windows, mac)`
   1. **Portage** - ([Repo](https://gitweb.gentoo.org/proj/portage.git), [WP](https://en.wikipedia.org/wiki/Portage_%28software%29)) Platform-agnostic Package management system created for and used by Gentoo Linux and also by Chrome OS, Sabayon, and Funtoo Linux. Inspired by FreeBSD ports. `(linux)`
   1. **Solaris IPS** - ([Repo](https://github.com/oracle/solaris-ips)) Software delivery system backed by network repository, featuring safe execution for zones, use of ZFS for efficiency and rollback, preventing the introduction of invalid packages, and efficient use of bandwidth. `(linux, corp)`
+  1. **Spack** - ([Repo](https://github.com/spack/spack), [Home](https://spack.io/), [Docs](https://spack.readthedocs.io/en/latest)) Language-independent package manager for supercomputers, Mac, and Linux, designed for scientific computing. `(science, linux, mac)`
   1. **yum** - ([Repo](https://github.com/rpm-software-management/yum), [Home](http://yum.baseurl.org/), [WP](https://en.wikipedia.org/wiki/Yum_%28software%29)) Automatic updater and package installer/remover for RPM-based systems (Fedora, RHEL, etc.). `(linux, corp)`
 
 ### <a id="tag-dev.pkg_repo" href="#tag-dev.pkg_repo">Package Repositories</a>

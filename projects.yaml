@@ -141,6 +141,19 @@ projects:
       - internet
       - organization
       - server
+  - name: buku
+    repo_url: https://github.com/jarun/buku
+    docs_url: https://github.com/jarun/buku/wiki
+    fund_url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RMLTQ76JSXJ4Q
+    date_added: 2020-08-04 00:15:00
+    desc: Browser-independent bookmark manager with CLI and web server frontends, with integrations for browsers, cloud-based bookmark managers, and emacs.
+    tags:
+      - internet
+      - organization
+      - linux
+      - windows
+      - mac
+      - server
   - name: Canto
     repo_url: https://github.com/themoken/canto-next
     wp_url: https://en.wikipedia.org/wiki/Canto_%28news_aggregator%29
@@ -377,6 +390,7 @@ projects:
       - flask
   - name: speedtest-cli
     repo_url: https://github.com/sivel/speedtest-cli
+    pypi_url: https://pypi.org/project/speedtest-cli
     date_added: 2019-01-27 15:37:00
     desc: Command-line interface for testing Internet bandwidth using [speedtest.net](https://speedtest.net).
     tags:
@@ -1192,6 +1206,7 @@ projects:
     home_url: https://www.reprozip.org/
     demo_url: https://examples.reprozip.org/
     docs_url: https://docs.reprozip.org/
+    pypi_url: https://pypi.org/project/reprozip
     date_added: 2019-11-13 10:04:00
     desc: Command-line tool which automatically builds reproducible experiments archives from console commands, designed for use in computational science.
     tags:
@@ -2054,6 +2069,15 @@ projects:
       - science
       - server
       - django
+  - name: Galaxy
+    repo_url: https://github.com/galaxyproject/galaxy
+    home_url: https://galaxyproject.org/
+    docs_url: https://galaxyproject.org/docs
+    date_added: 2020-10-10 23:41:00
+    desc: Web-based platform for reproducible and transparent computational research, with a focus on bioinformatics.
+    tags:
+      - science
+      - server
   - name: InVesalius
     repo_url: https://github.com/invesalius/invesalius3
     home_url: https://invesalius.github.io/
@@ -2161,6 +2185,17 @@ projects:
       - windows
       - mac
       - wx
+  - name: Spack
+    repo_url: https://github.com/spack/spack
+    home_url: https://spack.io/
+    docs_url: https://spack.readthedocs.io/en/latest
+    date_added: 2020-10-11 00:06:00
+    desc: Language-independent package manager for supercomputers, Mac, and Linux, designed for scientific computing.
+    tags:
+      - science
+      - pkg_mgr
+      - linux
+      - mac
   - name: Taguette
     repo_url: https://gitlab.com/remram44/taguette
     home_url: https://www.taguette.org/
@@ -2373,6 +2408,7 @@ projects:
   - name: Lektor
     repo_url: https://github.com/lektor/lektor
     home_url: https://www.getlektor.com/
+    pypi_url: https://pypi.org/project/Lektor
     date_added: 2018-11-24 02:37:00
     desc: Static site generator with built-in admin console and minimal desktop application.
     tags:
@@ -2721,6 +2757,7 @@ projects:
     repo_url: https://github.com/sqlmapproject/sqlmap
     home_url: http://sqlmap.org/
     docs_url: https://github.com/sqlmapproject/sqlmap/wiki
+    pypi_url: https://pypi.org/project/sqlmap
     date_added: 2019-01-27 15:41:00
     desc: Automatic SQL injection and database takeover.
     tags:
@@ -2944,6 +2981,16 @@ projects:
       - ops
       - server
       - django
+  - name: RDPY
+    repo_url: https://github.com/citronneur/rdpy
+    date_added: 2020-08-24 11:37:00
+    desc: An implementation of the Microsoft Remote Desktop Protocol built on Twisted, including applications for client use, MITM proxy, and Honeypot server.
+    tags:
+      - ops
+      - security
+      - linux
+      - windows
+      - server
   - name: Salt Stack
     repo_url: https://github.com/saltstack/salt
     home_url: https://repo.saltstack.com/
@@ -2960,6 +3007,15 @@ projects:
     desc: Shinken is a modern, Nagios-compatible monitoring framework, designed to scale for large environments.
     tags:
       - ops
+      - server
+  - name: SpaceSiren
+    repo_url: https://github.com/spacesiren/spacesiren
+    docs_url: https://github.com/spacesiren/spacesiren/blob/master/docs/getting-started.md
+    date_added: 2020-08-24 11:24:00
+    desc: Honeypot management and alert system for AWS tokens, with a fully serverless architecture.
+    tags:
+      - ops
+      - security
       - server
   - name: Spinnaker
     repo_url: https://github.com/spinnaker/spinnaker
@@ -3180,6 +3236,17 @@ projects:
       - security
       - linux
       - mac
+  - name: Thug
+    repo_url: https://github.com/buffer/thug
+    docs_url: https://thug-honeyclient.readthedocs.io/en/latest
+    fund_url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XTDF8AHJ28CXY
+    pypi_url: https://pypi.org/project/thug
+    date_added: 2020-08-24 12:02:00
+    desc: Low-interaction honeyclient designed to mimic the behavior of a web browser in order to detect and emulate malicious contents.
+    tags:
+      - security
+      - linux
+      - mac
   - name: Universal Radio Hacker (URH)
     repo_url: https://github.com/jopohl/urh
     date_added: 2019-01-27 01:10:00
@@ -3230,6 +3297,7 @@ projects:
   - name: mkdocs
     repo_url: https://github.com/mkdocs/mkdocs
     home_url: https://www.mkdocs.org/
+    pypi_url: https://pypi.org/project/mkdocs
     date_added: 2019-01-31 21:02:00
     desc: Simple, customizable project documentation, with built-in dev server.
     tags:
@@ -3248,6 +3316,7 @@ projects:
   - name: Sphinx
     repo_url: https://github.com/sphinx-doc/sphinx
     home_url: http://sphinx-doc.org/
+    pypi_url: https://pypi.org/project/Sphinx
     date_added: 2018-11-26 01:59:00
     desc: Documentation tool for interconnected bodies of authorship, from code documentation to books. Used by [the official Python docs](https://docs.python.org), and many other projects ([not all of them Python](https://varnish-cache.org/docs/)).
     tags:
@@ -3654,6 +3723,7 @@ projects:
   - name: redo
     repo_url: https://github.com/apenwarr/redo
     docs_url: https://redo.readthedocs.io/en/latest
+    pypi_url: https://pypi.org/project/redo-tools
     date_added: 2019-03-06 09:53:00
     desc: A recursive, general-purpose build sytem, replacing `make` with original design by [DJB](https://en.wikipedia.org/wiki/Daniel_J._Bernstein).
     tags:
@@ -3745,6 +3815,7 @@ projects:
   - name: coala
     repo_url: https://github.com/coala/coala
     home_url: https://coala.io/
+    pypi_url: https://pypi.org/project/coala
     date_added: 2018-11-26 01:59:00
     desc: Unified command-line interface for linting and fixing code, regardless of programming language.
     tags:
@@ -3815,6 +3886,7 @@ projects:
   - name: IPython
     repo_url: https://github.com/ipython/ipython
     docs_url: https://ipython.readthedocs.org/
+    pypi_url: https://pypi.org/project/ipython
     date_added: 2018-11-26 01:59:00
     desc: Set of enhancements to Python, wrapping it for richer interactivity.
     tags:
@@ -3908,6 +3980,7 @@ projects:
   - name: Robot Framework
     repo_url: https://github.com/robotframework/robotframework
     home_url: http://robotframework.org/
+    pypi_url: https://pypi.org/project/robotframework
     date_added: 2018-11-26 01:59:00
     desc: Generic, cross-platform, and language-independent automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA). Extensible in Python and Java.
     tags:
@@ -3992,6 +4065,7 @@ projects:
   - name: Guake
     repo_url: https://github.com/Guake/guake
     home_url: http://guake-project.org/
+    pypi_url: https://pypi.org/project/guake
     date_added: 2018-11-26 01:59:00
     desc: Drop-down terminal for GNOME, reminiscent of first-person game command consoles.
     tags:
